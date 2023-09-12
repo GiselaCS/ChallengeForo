@@ -47,4 +47,4 @@ La API debe tener un endpoint para la eliminación de tópicos y debe aceptar re
 - Nota Las pruebas de funcionalidad de API se pueden realizar en alguna herramienta de prueba de API, como Postman o Insomnia.
 
 ## Base de datos
-![Imagen ilustrativa de la Base de datos.](Conversor/src/co/conversor/images/ConversorDivisas.png)
+![Imagen ilustrativa de la Base de datos.](Foro/src/main/resources/img/DBForo.png)
